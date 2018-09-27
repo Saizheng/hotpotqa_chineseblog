@@ -25,14 +25,14 @@
 
 话不多说，下面是HotpotQA里面的一个样例问题，在选段中我们用绿色标出了用来回答该问题的支持推理线索。
 
-<img src="img/example.png" style="max-width:100%; border: 3px solid #dddddd">
+<img src="example.png" style="max-width:100%; border: 3px solid #dddddd">
 
 除此之外，HotpotQA的问题种类也十分多样，除了一些常见的多步推理问题，还包括在大尺度文本问答数据集第一次出现的**比较型问题(comparison questions)**，例如文章开头的“吃鸡vs农药”。下图显示了HotpotQA中的问题种类以及占比：
 
-<img src="img/question_types.png" style="max-width:100%">
+<img src="question_types.png" style="max-width:100%">
 
 俗话说，酒逢知己千杯少，话不投机半句多。相信耐心读到此处还没有关掉页面的看官一定也像我们一样对多步推理问答充满了好奇，
-那不妨移步我们的[EMNLP2018 paper](#)一探我们的方法细节。同时对于那些“我的模型已经饥渴难耐”的同仁，你们一定要访问[HotpotQA的官方网站](#)，我们在此处设擂，欢迎前来砸场子！你们模型的提交是机器多步推理进步的动力！
+那不妨移步我们的[EMNLP2018 paper](https://arxiv.org/pdf/1809.09600.pdf)一探我们的方法细节。同时对于那些“我的模型已经饥渴难耐”的同仁，你们一定要访问[HotpotQA的官方网站](https://hotpotqa.github.io/)，我们在此处设擂，欢迎前来砸场子！你们模型的提交是机器多步推理进步的动力！
 
 以上。
 
